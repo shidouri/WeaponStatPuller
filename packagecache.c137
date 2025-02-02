@@ -5,6 +5,7 @@
             "Weapon Name": ".50 GS",
             "Fire Rate": "0.368",
             "Ammo Count": "7",
+            "TESTER": "TESTER",
             "Reload Time": "2.200",
             "Reload Add Time": "1.267",
             "Empty Reload Time": "2.300",
