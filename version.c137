@@ -1,2 +1,4 @@
-{"wsp" : 2.0}
-{"download_url" : "link here"}
+{
+    "wsp": "1.4",
+    "download_url": "https://example.com/path/to/new_version.exe"
+}
